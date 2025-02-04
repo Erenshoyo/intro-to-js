@@ -13,5 +13,5 @@
 * 9. Max/Min: 14, 18, 16
 * 10. Series: 
 * 11. Area:
-* 
+* 12. Prime number/Permutation:
 */ 
