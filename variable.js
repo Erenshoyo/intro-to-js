@@ -12,3 +12,4 @@ price = 500;
 var age;
 console.log(age);
 console.log(price);
+
