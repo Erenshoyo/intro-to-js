@@ -4,3 +4,10 @@ console.log(price);
 
 price += 10;
 console.log(price);
+
+/*
+ *  Addition : +=
+    Subtraction : -=
+    Multiplication : *=
+    Division : /=
+ */
